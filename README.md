@@ -1,8 +1,8 @@
 ## Hi! My name is Eileen
 
-I'm a 4th year student @ Ivey Business School and Computer Science student @ Western University
+I'm an Ivey Business School grad and current Computer Science student @ Western University.
 
-I'm currently working at 1Password as a Software Engineer on their Design Systems team.
+I'm currently working at 1Password as a Software Engineer on their Insights team.
 
 <!--
 **eileen-zhaoo/eileen-zhaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
